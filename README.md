@@ -26,9 +26,9 @@ The game has evolved beyond its TV show origins and can now be found in arcade v
 
 The world of Plinko has evolved significantly, with various gaming providers offering their unique takes on this classic game. Each version maintains the core gameplay mechanics while adding its own distinctive elements. As shown in the table below, different providers offer varying Return to Player (RTP) rates, ranging from 96% to 99%. 
 
-|     Provider              |Game Name	                         |RTP                         |
+|     ✅ Provider              |✅ Game Name	                         |✅ RTP                         |
 |-----------------------    |-------------------------------|-----------------------------|
-|**Evolution**              |Plinko	                        |97%                          |
-|**Spribe**                 |Plinko Original                |99%                          | 
-|**SmartSoft**              |JetPlinko	                    |97,5%                        |
-|**Hacksaw**                |Plinko XY	                    |96%                          |
+|⭐️ **Evolution**              |Plinko	                        |97%                          |
+|⭐️ **Spribe**                 |Plinko Original                 |99%                          | 
+|⭐️ **SmartSoft**              |JetPlinko	                    |97,5%                        |
+|⭐️ **Hacksaw**                |Plinko XY	                    |96%                          |
